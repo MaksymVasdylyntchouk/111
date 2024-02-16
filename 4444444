@@ -1,0 +1,23 @@
+<html>
+    <h1 style="font-size:50px;text-align:center">Мої котики</h1>
+<body style="background:green;font-family:sans-serif";>
+    <header><img src="https://e7.pngegg.com/pngimages/797/333/png-clipart-paw-logo-cat-cat-animals-paw.png"width="50px" height="50px"/></header>  
+    <a href="https://uk.wikipedia.org/wiki/Історія"><font color="white">Історія</font></a>  
+<img src="https://maximum.fm/uploads/media_news/2018/11/974f4dbf6afa9375a3f2e38eec7cd4752a1d5a8f.jpg?w=1200&h=675&il&q=90&output=jpg"width="500px" height="300px"/>
+<h1>Мій кіт рижик</h1>
+<h2 style="font-size:40px">Є різні породи котів, але серед них, мій особливий!</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gato_070413_1.jpg/1200px-Gato_070413_1.jpg"width="400px" height="300px"/>
+<h2 style="font-size:40px">Але в мене є ще кішка, яку звати Аня. Я її дуже люблю. Я люблю своїх котів.</h2>
+<a href="https://uk.wikipedia.org/wiki/Родина"><font color="white">Родина</font></a>
+<table style="border:1px solid blue;">
+    <td style="border:1px solid blue;"><h4><font color="red">Раціон моїх котиків</font></h4></td>
+    <tr>
+    <td style="border:1px solid blue;">Звичайна їжа</td>
+<td style="border:1px solid blue;"><img src="https://content.e-zoo.com.ua/files/Prods/prod_19302_72009111.jpg"width="50px" height="50px"/></td>
+<td style="border:1px solid blue;">Смаколики</td>
+<td style="border:1px solid blue;"><img src="https://goodzoo.com.ua/photos/offers/18de3c030f84411ebb97a57f78e42501b.jpg"width="50px" height="50px"/></td>
+    </tr>
+</table>
+<footer>Маx max вул. Котяча 23</footer>
+    </body>
+</html>
